@@ -10,3 +10,5 @@ Tweaks introduced to the original TOTEMX case bottom plate and the middle/top pl
 
 ![image](../../Pictures/20250327.TOTEMX.LP.01.jpg)
 ![image](../../Pictures/20250327.TOTEMX.LP.02.jpg)
+
+The step file of low profile case bottom plate is added for people with [PCB compatibility issue](https://github.com/azhizhinov/TOTEMX/issues/9) to modify.
